@@ -50,7 +50,8 @@ import 'package:flutter/material.dart';
 // import 'Lec_78_MapListToWidget.dart';
 // import 'Lec_79_TweenAnimation.dart';
 // import 'Lec_80_RippleAnimation.dart';
-import 'Lec_81_SharedPreferences.dart';
+// import 'Lec_81_SharedPreferences.dart';
+import 'Lec_82_SharedPreferenceLoginApp_SplashScreen.dart';
 
 /* Start
 // flutter code setUp
@@ -208,7 +209,8 @@ class MyApp extends StatelessWidget {
       // home: Lec78(),
       // home: Lec79(),
       // home: Lec80(),
-      home: Lec81(),
+      // home: Lec81(),
+      home: Lec82LoginApp(),
     );
   }
 }
